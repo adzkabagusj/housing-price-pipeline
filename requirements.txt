@@ -1,0 +1,20 @@
+# Data Processing
+pyspark==3.2.1
+pandas==1.4.2
+numpy==1.22.3
+
+# Web Scraping
+requests==2.27.1
+beautifulsoup4==4.11.0
+
+# Airflow
+apache-airflow==2.3.3
+apache-airflow-providers-apache-spark==3.0.0
+
+# Testing
+pytest==7.1.2
+pytest-mock==3.7.0
+
+# Misc
+pyarrow==7.0.0
+psycopg2-binary==2.9.3

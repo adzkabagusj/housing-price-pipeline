@@ -38,7 +38,7 @@ Thumbs.db
 
 # Project specific
 data/
-*.csv
+# *.csv
 *.xlsx
 *.json
 
